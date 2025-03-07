@@ -1,2 +1,2 @@
 # RTCmix_FirstScore
-First experimental RTCmix composition, uses randomized wave types and table types.
+This RTCmix script generates a sequence of sound events using the WAVETABLE instrument. It creates randomized frequencies, waveforms, vibrato envelopes, and stereo panning to produce dynamic, evolving textures.
